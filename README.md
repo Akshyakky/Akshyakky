@@ -65,7 +65,7 @@ Explore my work: [My Portfolio](https://akshyakky.netlify.app/)
 - **📧 Email:** [akshay.putta3@gmail.com](mailto:akshay.putta3@gmail.com)
 - **📱 Phone:** +91 8762919916
 - **📍 Location:** Bangalore, India
-- **🌐 LinkedIn:** [LinkedIn Profile]([https://www.linkedin.com/in/akshay-kumar-47849a1b1](https://www.linkedin.com/in/akshay-kumar-b1a08b138))
+- **🌐 LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/akshay-kumar-b1a08b138/)
 - **🐦 Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) _(if you have one)_
 
 ---
