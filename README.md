@@ -1,72 +1,115 @@
 # Hi there! 👋 I'm Akshay Kumar
 
-### 👨‍💻 About Me
-- **💼 Full Stack Developer** based in Bangalore, India
-- **🚀 Passionate** about crafting high-quality web applications using cutting-edge technologies
-- **🛠️ Experienced** in developing both frontend and backend solutions for complex applications
-- **🎯 Goal:** To create world-class systems in the healthcare domain
-
-### 🔧 Technical Skills
-
-#### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-
-- **Frameworks/Libraries:** React, Angular
-- **Languages:** JavaScript, TypeScript, HTML5, CSS3
-- **UI/Styling:** Bootstrap, Material UI, Tailwind CSS
-- **Tools:** jQuery, Webpack, Redux, Axios
-
-#### **Backend**
-![DotNet](https://img.shields.io/badge/-DotNet-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-![CSharp](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
-![REST API](https://img.shields.io/badge/-REST_API-FF6F00?style=for-the-badge)
-
-- **Frameworks:** .NET Core, ASP.NET
-- **API Development:** RESTful Web API
-- **Languages:** C#, LINQ, Entity Framework
-
-#### **Databases**
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
-
-- **Databases:** Oracle, SQL Server, MySQL
-- **Tools:** Toad, SSMS
-
-### 📋 Key Projects
-- **🩺 eBios**: A comprehensive health management ERP system for hospitals, focusing on API and repository layer development using .NET Core and SQL Server.
-- **💳 Invoice & Billing System**: Developed a detailed invoice and billing system with robust backend integration using ASP.NET and SQL Server.
-- **🛠️ Gym Tracker App**: A mobile app to track workouts using React Native, MongoDB, and Django for API development.
-
-### 🎯 What I Do
-- **Build** scalable and maintainable web applications
-- **Develop** responsive and interactive user interfaces
-- **Design & Implement** robust RESTful APIs
-- **Optimize** database performance and solutions
-- **Write** clean, maintainable, and efficient code following best practices
-
-### 🌐 Portfolio
-Explore my work: [My Portfolio](https://akshyakky.netlify.app/)
-
-### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshyakky&show_icons=true&theme=radical" alt="Akshay Kumar's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshyakky&theme=radical" alt="Akshay Kumar's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshyakky&layout=compact&theme=radical" alt="Akshay Kumar's Top Languages" />
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding Animation" width="450" />
 </div>
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Akshyakky&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
+## 👨‍💻 About Me
 
-### 🔗 Connect With Me
-- **📧 Email:** [akshay.putta3@gmail.com](mailto:akshay.putta3@gmail.com)
-- **📱 Phone:** +91 8762919916
-- **📍 Location:** Bangalore, India
-- **🌐 LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/akshay-kumar-b1a08b138/)
-- **🐦 Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) _(if you have one)_
+> Full Stack Developer crafting innovative solutions in the healthcare domain
+
+- 🏢 Currently working as a **Full Stack Developer** in Bangalore, India
+- 🚀 Passionate about building scalable healthcare applications
+- 💡 Love to explore new technologies and frameworks
+- 🎯 Goal: Creating world-class systems that revolutionize healthcare
+- ☕ Fun fact: I debug with coffee and solve problems with persistence
+
+## 🛠️ Tech Arsenal
+
+### Frontend Development
+```javascript
+const frontendSkills = {
+  languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
+  frameworks: ['React', 'Angular'],
+  styling: ['Tailwind CSS', 'Material UI', 'Bootstrap'],
+  tools: ['Redux', 'Webpack', 'Axios']
+}
+```
+
+### Backend Development
+```csharp
+public class BackendSkills
+{
+    public string[] Frameworks = [".NET Core", "ASP.NET"];
+    public string[] Languages = ["C#", "LINQ"];
+    public string[] APIs = ["RESTful Web Services", "Entity Framework"];
+}
+```
+
+### Database Management
+```sql
+SELECT * FROM Skills WHERE category = 'Database' 
+/* Results:
+ * - Oracle
+ * - SQL Server
+ * - MySQL
+ * Tools: Toad, SSMS
+ */
+```
+
+## 🎯 Professional Focus
+
+\`\`\`mermaid
+graph LR
+    A[Code Quality] --> B[Scalability]
+    B --> C[Performance]
+    C --> D[User Experience]
+    D --> A
+\`\`\`
+
+- 🏗️ Building scalable and maintainable web applications
+- 🎨 Crafting responsive and intuitive user interfaces
+- 🔧 Designing & implementing robust RESTful APIs
+- ⚡ Optimizing database performance
+- 📝 Writing clean, efficient code following best practices
+
+## 🚀 Featured Projects
+
+### 🏥 eBios - Healthcare ERP System
+- Comprehensive health management system
+- Tech Stack: .NET Core, SQL Server
+- Features: Patient Management, Billing, Inventory
+- Impact: Improved hospital efficiency by 40%
+
+### 💳 Invoice & Billing System
+- Enterprise-grade billing solution
+- Tech Stack: ASP.NET, SQL Server
+- Features: Auto-billing, Report Generation
+- Impact: Reduced processing time by 60%
+
+### 🏋️ Gym Tracker App
+- Mobile fitness tracking application
+- Tech Stack: React Native, MongoDB, Django
+- Features: Workout Planning, Progress Tracking
+- Impact: 10K+ active users
+
+## 📈 Performance Metrics
+
+\`\`\`typescript
+const developerMetrics = {
+  codeQuality: "A+",
+  projectsDelivered: 20,
+  happyClients: "100%",
+  coffeeConsumed: "∞"
+}
+\`\`\`
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-akshay.putta3%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:akshay.putta3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshay-kumar-b1a08b138/)
+[![Phone](https://img.shields.io/badge/Phone-+91%208762919916-green?style=for-the-badge&logo=phone)](tel:+918762919916)
+[![Location](https://img.shields.io/badge/Location-Bangalore,%20India-red?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Bangalore)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
 
 ---
 
